@@ -1,0 +1,13 @@
+Library/
+Temp/
+obj/
+Test_Data/
+*.sln
+*.csproj
+*.sln
+*.suo
+*.userprefs
+*.unityproj
+*.DS_Store
+*.pdb
+*.exe

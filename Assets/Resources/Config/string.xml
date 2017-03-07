@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ele id="MessageWindow.EMT_NetTryAgain.Title">网络错误</ele>
+  <ele id="MessageWindow.EMT_NetTryAgain.Content">您的网络无法连接上服务器，请检查下网络是否良好。</ele>
+  <ele id="MessageWindow.EMT_Double.TryAgainButton">image 168</ele>
+  <ele id="MessageWindow.EMT_Double.QuitButton">image 172</ele>
+
+  <ele id="EMessageType.EMT_Tip.Frame">image 27</ele>
+  <ele id="EMessageType.EMT_UpdateTip.Content1">版本检查中</ele>
+  <ele id="EMessageType.EMT_UpdateTip.Content2">正在更新本地文件</ele>
+  <ele id="EMessageType.EMT_UpdateTip.Content3">数据读取中</ele>
+
+  <ele id="EMessageType.EMT_UpdateDownload.Content">正在下载更新文件（{0}/{1}:{2}）</ele>
+  <ele id="MessageWindow.EMT_UpdateDownload.LookNewButton">image 79</ele>
+
+  <ele id="MessageWindow.EMT_SureTip.LoginNullUsernameOrPassword">用户名或者密码为空，请重新输入</ele>
+</root>
